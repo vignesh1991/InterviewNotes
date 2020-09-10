@@ -1,6 +1,5 @@
-Top Google Questions
-Will be posting top linkedin ,top facebook,top amazon questions soon
-
+## Top Google Questions
+```
 Two Sum (https://leetcode.com/problems/two-sum)
 Insert Interval (https://leetcode.com/problems/insert-interval)
 Text Justification (https://leetcode.com/problems/text-justification)
@@ -53,3 +52,4 @@ Divide Array in Sets of K Consecutive Numbers (https://leetcode.com/problems/div
 Minimum Distance to Type a Word Using Two Fingers
 (https://leetcode.com/problems/minimum-distance-to-type-a-word-using-two-fingers)
 Time Needed to Inform All Employees (https://leetcode.com/problems/time-needed-toinform-all-employees)
+`
