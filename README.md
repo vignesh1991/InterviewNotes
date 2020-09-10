@@ -9,3 +9,6 @@ https://leetcode.com/discuss/general-discussion/494279/comprehensive-data-struct
 https://leetcode.com/discuss/general-discussion/665604/important-and-useful-links-from-all-over-the-leetcode
 
 https://zero1code.info/
+
+
+https://seanprashad.com/leetcode-patterns/
