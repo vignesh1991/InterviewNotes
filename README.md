@@ -12,3 +12,6 @@ https://zero1code.info/
 
 
 https://seanprashad.com/leetcode-patterns/
+
+
+https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
