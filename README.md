@@ -17,3 +17,5 @@ https://seanprashad.com/leetcode-patterns/
 https://leetcode.com/discuss/study-guide/458695/Dynamic-Programming-Patterns
 
 https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-programming-DP-besides-the-TopCoder-tutorial
+
+
