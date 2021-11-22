@@ -21,4 +21,6 @@ https://www.quora.com/Are-there-any-good-resources-or-tutorials-for-dynamic-prog
 
 https://leetcode.com/problems/minimum-window-substring/discuss/26808/Here-is-a-10-line-template-that-can-solve-most-'substring'-problems
 
+https://leetcode.com/discuss/study-guide/1490172/dynamic-programming-is-simple
+
 
